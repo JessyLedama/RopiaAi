@@ -4,11 +4,6 @@
   <b>FINANCE is a simple yet powerful, self-hosted personal finance tracking web app with the ability to parse SMS transactions and generate very useful insights about your money. It's also powered by ChatGPT!</b>
 </p>
 
-<!-- <p align="center"><a href="https://www.youtube.com/watch?v=kfwcMdlFn9o&list=PLw5MK6ws-o1_rNobmZCmnH5G11vwCiKKk&ab_channel=ILoveMathAcademy" target="__blank"><img src="./public/images/finance.jpg" /></a></p>
-<p align="center"><a href="https://www.youtube.com/watch?v=kfwcMdlFn9o&list=PLw5MK6ws-o1_rNobmZCmnH5G11vwCiKKk&ab_channel=ILoveMathAcademy" target="__blank"><img height="40" src="./public/images/video.png" /></a></p> -->
-
-<!-- ## 💰 Sponsors
-Support this project by becoming a sponsor ❤️. Your logo will show up here with a link to your website. [Become a sponsor](https://github.com/sponsors/saleem-hadad) -->
 
 ## 🛠 Features
 
@@ -97,16 +92,6 @@ Once done, visit the app on `http://localhost`
 
 Read [full documentation](https://finance-demo.saleem.dev/docs)
 
-<!-- ## JetBrains Sponsorship
-Thank you, JetBrains for sponsoring the license ❤️
-
-<a href="https://www.jetbrains.com/community/opensource/#support" target="__blank">
-<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png?_gl=1*18f1z4q*_ga*MTI4MDYwODYzNy4xNjUyMzU3ODM3*_ga_9J976DJZ68*MTY2MTg3NDM2NC4xMi4xLjE2NjE4NzUxNTAuMC4wLjA.&_ga=2.85008921.1685901777.1661797034-1280608637.1652357837" width="250px" />
-</a> -->
-
-<!-- ## Get $200 DigitalOcean Credit
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=64aee93d49da&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) -->
 
 ## Project Visualization
 
